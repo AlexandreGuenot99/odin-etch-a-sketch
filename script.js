@@ -1,1 +1,0 @@
-console.log("Etch-a-Sketch project initialized");

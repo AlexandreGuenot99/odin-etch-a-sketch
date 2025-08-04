@@ -1,3 +1,20 @@
 body{
-    color: rebeccapurple;
+    font-family: cascadia code;
+    box-sizing: border-box;
+    height: 100vh;
+    margin: 0;
 }
+header{
+    text-align: center;
+    padding: 12px;
+    background-color: #333;
+    color: white;
+    font-size: 40px;
+}
+main{
+
+}
+.square{
+    
+}
+
